@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherBot", "Plugins\Weath
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarmaBot", "Plugins\KarmaBot\KarmaBot.csproj", "{ADFA8D13-B83B-4ED4-8C23-F85FDBA8FC6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegressionTests", "RegressionTests\RegressionTests.csproj", "{A9361A5A-4B7A-4788-9F93-92C8CF6523E8}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		..\SethCS\SethCS\SethCSMono.projitems*{501708e7-ac43-4df4-b7bc-6a31074e30d1}*SharedItemsImports = 4
@@ -116,6 +118,14 @@ Global
 		{ADFA8D13-B83B-4ED4-8C23-F85FDBA8FC6E}.Release Linux|Any CPU.Build.0 = Release|Any CPU
 		{ADFA8D13-B83B-4ED4-8C23-F85FDBA8FC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADFA8D13-B83B-4ED4-8C23-F85FDBA8FC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9361A5A-4B7A-4788-9F93-92C8CF6523E8}.Debug Linux|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9361A5A-4B7A-4788-9F93-92C8CF6523E8}.Debug Linux|Any CPU.Build.0 = Debug|Any CPU
+		{A9361A5A-4B7A-4788-9F93-92C8CF6523E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9361A5A-4B7A-4788-9F93-92C8CF6523E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9361A5A-4B7A-4788-9F93-92C8CF6523E8}.Release Linux|Any CPU.ActiveCfg = Release|Any CPU
+		{A9361A5A-4B7A-4788-9F93-92C8CF6523E8}.Release Linux|Any CPU.Build.0 = Release|Any CPU
+		{A9361A5A-4B7A-4788-9F93-92C8CF6523E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9361A5A-4B7A-4788-9F93-92C8CF6523E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
